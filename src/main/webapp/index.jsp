@@ -6,7 +6,7 @@
   
   <h2> Call Us : +91-9985396677  +91 456123789  </h2>
   
-  <h3> Our Ofc Location : Ameerpet, Hyderbad </h3>
+  <h3> Our Ofc Location : Ameerpet, Hyderbad, Berhampur </h3>
 
 </body>
 </html>
